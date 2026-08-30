@@ -10,4 +10,4 @@ Day 6 i am tried to write other shit
 part 2 of day 6 
 checking 1 2 3
 pooo
-
+turd
