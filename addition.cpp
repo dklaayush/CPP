@@ -11,3 +11,4 @@ part 2 of day 6
 checking 1 2 3
 pooo
 turd
+smassh the like
